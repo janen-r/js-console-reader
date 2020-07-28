@@ -1,0 +1,12 @@
+{
+  "name": "js-console-reader",
+  "version": "1.0.0",
+  "description": "Its a function which returns the all console log values written in the js code by executing the code",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "Janen R",
+  "license": "MIT"
+}
