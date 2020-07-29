@@ -10,10 +10,10 @@ $ npm install console-reader
 ### Example
 
 ```js
-const consoleReader = require("console-reader");
+const consoleReader = require("js-console-reader");
 
 const consoleLogs = consoleReader.read(
-  `let a = 'js-reader-log'; console.log(a)`
+  `let a = 'js-console-reader-log'; console.log(a)`
 );
 console.log(consoleLogs);
 ```
