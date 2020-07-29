@@ -9,7 +9,7 @@
     "test": "node test.js"
   },
   "publishConfig": {
-    "registry": "https://github.com/janen-r"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
