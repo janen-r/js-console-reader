@@ -3,7 +3,7 @@
 ### Installation
 
 ```
-$ npm install console-reader
+$ npm install js-console-reader
 
 ```
 
