@@ -1,6 +1,7 @@
 {
   "name": "js-console-reader",
   "version": "1.0.0",
+  "homepage": "https://github.com/janen-r/js-console-reader",
   "description": "Its a function which returns the all console log values written in the js code by executing the code",
   "main": "app.js",
   "scripts": {
@@ -9,6 +10,10 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janen-r/js-console-reader"
   },
   "author": "Janen R",
   "license": "MIT"
