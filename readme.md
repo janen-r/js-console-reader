@@ -1,16 +1,16 @@
-### JS-CONSOLE-READER
+### JAVASCRIPT CONSOLE READER
 
 ### Installation
 
 ```
-$ npm install js-console-reader
+$ npm install console-reader
 
 ```
 
 ### Example
 
 ```js
-const consoleReader = require("js-console-reader");
+const consoleReader = require("console-reader");
 
 const consoleLogs = consoleReader.read(
   `let a = 'js-reader-log'; console.log(a)`
